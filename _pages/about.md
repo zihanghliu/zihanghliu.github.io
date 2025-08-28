@@ -18,9 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zihang. I am a master student at [Berkeley EECS](https://eecs.berkeley.edu/). I have the privilege to work with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/) and [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/) from [UC Berkeley](https://www.icsi.berkeley.edu/). 
+Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) and [International Computer Science Institute](https://www.icsi.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/). I previously obtained my Master's degree in [EECS](https://eecs.berkeley.edu/) at UC Berkeley.
 
-My research focus is to understand and improve the robustness and efficiency of learning models. I am particularly interested in understanding interesting phenomena such as low-rank structures, sparsity, and the geometry of weight matrices in deep learning models, with inspirations from high-dimensional statistics, random matrix theory and randomized linear algebra. I also use these techniques in discovering new (numerical) algorithms.
+**My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in understanding phenomena such as low-rank structures, sparsity, and the geometry of weight matrices in deep learning models, with inspirations from high-dimensional statistics, random matrix theory and randomized linear algebra. I also use these techniques in discovering new (numerical) algorithms.
 
 
 <!-- Previous versions -->
