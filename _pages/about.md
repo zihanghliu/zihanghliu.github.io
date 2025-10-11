@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Model Balancing Helps Low-data Training and Fine-tuning**
 
-**Zihang Liu**, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ), [Tianyu Pang](), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+**Zihang Liu**, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ), [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [**Paper**](https://arxiv.org/abs/2410.12178) \| [**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**Video**](https://drive.google.com/file/d/1JtYKVhZBslAEZUrH6Z7UEVCq-1cSz1Ot/view?usp=sharing)
 
@@ -69,7 +69,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <!-- # Acknowledgements
-I am very fortunate to work with and learn from many great researchers and mentors. In addition to my superviors, I would like to thank  -->
+I am extremely fortunate to work with and learn from many great researchers and mentors. In addition to my supervisors, I would like to thank the following researchers for their guidance and support (in alphabetical order of last name): [Oleg Balabanov](https://obalabanov.github.io/), [Yuanzhe Hu](https://hust-ai-hyz.github.io/), [Tianyu Pang](https://tdcsz327.github.io/), [Pu Ren](https://paulpuren.github.io/), [Yefan Zhou](https://yefanzhou.github.io/). -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
