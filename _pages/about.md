@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<!-- Authors within {} are equal contributors. -->
+Authors within {} are equal contributors.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML_LIFT_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Model Balancing Helps Low-data Training and Fine-tuning**
 
-**Zihang Liu**, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ), [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+\{**Zihang Liu**\*, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ)\*\}, [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [**Paper**](https://arxiv.org/abs/2410.12178) \| [**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**Video**](https://drive.google.com/file/d/1JtYKVhZBslAEZUrH6Z7UEVCq-1cSz1Ot/view?usp=sharing)
 
