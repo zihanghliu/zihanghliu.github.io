@@ -45,7 +45,7 @@ Authors within {} are equal contributors.
 
 **LIFT the Veil for the Truth: Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning**
 
-**Zihang Liu**, [Tianyu Pang](), [Oleg Balabanov](https://obalabanov.github.io/), [Chaoqun Yang](https://paulpuren.github.io/), [Tianjin Huang](https://tianjinyellow.github.io/), [Lu Yin](https://luuyin.com/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Shiwei Liu](https://shiweiliuiiiiiii.github.io/)
+**Zihang Liu**, [Tianyu Pang](https://tdcsz327.github.io/), [Oleg Balabanov](https://obalabanov.github.io/), [Chaoqun Yang](), [Tianjin Huang](https://tianjinyellow.github.io/), [Lu Yin](https://luuyin.com/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Shiwei Liu](https://shiweiliuiiiiiii.github.io/)
 
 [**Paper**](https://arxiv.org/abs/2506.00772) \| [**Code**](https://github.com/zihanghliu/LIFT)
 
@@ -59,7 +59,7 @@ Authors within {} are equal contributors.
 
 **Model Balancing Helps Low-data Training and Fine-tuning**
 
-\{**Zihang Liu**\*, [Yuanzhe Hu](https://github.com/HUST-AI-HYZ)\*\}, [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+\{**Zihang Liu**\*, [Yuanzhe Hu](https://hust-ai-hyz.github.io/)\*\}, [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [**Paper**](https://arxiv.org/abs/2410.12178) \| [**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**Video**](https://drive.google.com/file/d/1JtYKVhZBslAEZUrH6Z7UEVCq-1cSz1Ot/view?usp=sharing)
 
