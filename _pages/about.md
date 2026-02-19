@@ -20,7 +20,11 @@ redirect_from:
 
 Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) and [International Computer Science Institute](https://www.icsi.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/). I previously obtained my Master's degree in [EECS](https://eecs.berkeley.edu/) at UC Berkeley.
 
-**My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in understanding phenomena such as low-rank structures, sparsity, and the geometry of weight matrices in deep learning models, with inspirations from high-dimensional statistics, random matrix theory and randomized linear algebra. I also use these techniques in discovering new (numerical) algorithms.
+**My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in:
+- Understanding the mechanisms, behaviors of AI systems, such as generalization, uncertainty, and reasoning of LLMs, and using principled approaches to improve the transparency and efficiency.
+- Leveraging the geometry of deep learning such as low-rank subspaces and loss landscapes, to develop new (numerical) algorithms for training large-scale AI systems and solving numerical problems.
+
+My research draws inspirations from high-dimensional statistics, random matrix theory and (randomized) numerical linear algebra.
 
 
 <!-- Previous versions -->
@@ -32,14 +36,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2026.02*: &nbsp; Excited to share [our new paper](#autospec-paper) that proposes **AutoSpec** -- a nerual network framework to discover iterative spectral algorithms for NLA and optimization.
 - *2025.06*: &nbsp; Started my research engineer position at [ICSI](https://www.icsi.berkeley.edu/), UC Berkeley, to work on numerical algorithm discovery with deep learning.
 - *2025.05*: &nbsp; Our paper "Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning" has been accepted to [ICML 2025](https://icml.cc/Conferences/2025).
 - *2024.11*: &nbsp; Gave a presentation at EMNLP 2024 on [foundation model diagnosis](https://aclanthology.org/2024.emnlp-main.78/), check out the live recording [here](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true).
 - *2024.09*: &nbsp; Excited to share that our work "Model Balancing Helps Low-data Training and Fine-tuning" is accepted by [EMNLP 2024](https://2024.emnlp.org/) as **Oral Presentation**.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 Authors within {} are equal contributors.
+
+<span id="autospec-paper"></span>
+<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/autospec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning to Discover Iterative Spectral Algorithms**
+
+\{**Zihang Liu**\*, [Oleg Balabanov](https://obalabanov.github.io/)\*\}, [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
+
+[**Paper**](https://arxiv.org/abs/2602.09530)
+
+**arXiv preprint**
+
+</div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML_LIFT_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
