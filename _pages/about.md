@@ -44,16 +44,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Selected Publications 
 
-Authors within {} are equal contributors.
-
 <span id="autospec-paper"></span>
-<div class='paper-box'>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/autospec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning to Discover Iterative Spectral Algorithms**
 
-\{**Zihang Liu**\*, [Oleg Balabanov](https://obalabanov.github.io/)\*\}, [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
+**Zihang Liu**\*, [Oleg Balabanov](https://obalabanov.github.io/)\*, [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
 
 [**Paper**](https://arxiv.org/abs/2602.09530)
 
@@ -81,7 +78,7 @@ Authors within {} are equal contributors.
 
 **Model Balancing Helps Low-data Training and Fine-tuning**
 
-\{**Zihang Liu**\*, [Yuanzhe Hu](https://hust-ai-hyz.github.io/)\*\}, [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+**Zihang Liu**\*, [Yuanzhe Hu](https://hust-ai-hyz.github.io/)\*, [Tianyu Pang](https://tdcsz327.github.io/), [Yefan Zhou](yefanzhou.github.io), [Pu Ren](https://paulpuren.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [**Paper**](https://arxiv.org/abs/2410.12178) \| [**Code**](https://github.com/ZihangHLiu/ModelBalancing) \| [**Video**](https://drive.google.com/file/d/1JtYKVhZBslAEZUrH6Z7UEVCq-1cSz1Ot/view?usp=sharing)
 
