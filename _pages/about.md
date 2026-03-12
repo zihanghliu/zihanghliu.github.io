@@ -21,8 +21,8 @@ redirect_from:
 Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) and [International Computer Science Institute](https://www.icsi.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/). I previously obtained my Master's degree in [EECS](https://eecs.berkeley.edu/) at UC Berkeley.
 
 **My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in:
-- Understanding the mechanisms, behaviors of AI systems, such as generalization, uncertainty, and reasoning of LLMs, and using principled approaches to improve the transparency and efficiency.
-- Leveraging the geometry of deep learning such as low-rank subspaces and loss landscapes, to develop new (numerical) algorithms for training large-scale AI systems and solving numerical problems.
+- Understanding the mechanisms and behaviors of AI systems, such as generalization, uncertainty, and reasoning of LLMs, and using principled approaches to improve the transparency and efficiency.
+- Leveraging the geometry of deep learning such as low-rank subspaces and loss landscapes, to develop new (numerical) algorithms and frameworks for training large-scale AI systems and solving numerical problems.
 
 My research draws inspirations from high-dimensional statistics, random matrix theory and (randomized) numerical linear algebra.
 
@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2026.02*: &nbsp; Excited to share [our new paper](#autospec-paper) that proposes **AutoSpec** -- a nerual network framework to discover iterative spectral algorithms for NLA and optimization.
+- *2026.02*: &nbsp; Excited to share our recent works on spectral analysis and ML: [**AutoSpec**](#autospec-paper) -- a nerual network framework to discover iterative spectral algorithms for NLA and optimization, and [**HTMuon**](#htmuon-paper) -- an improvement to Muon via heavy-tailed spectral correction.
 - *2025.06*: &nbsp; Started my research engineer position at [ICSI](https://www.icsi.berkeley.edu/) to work on numerical algorithms and deep learning.
 - *2025.05*: &nbsp; Our paper "Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning" has been accepted to [ICML 2025](https://icml.cc/Conferences/2025).
 - *2024.11*: &nbsp; Gave a presentation at EMNLP 2024 on [foundation model diagnosis](https://aclanthology.org/2024.emnlp-main.78/), check out the live recording [here](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true).
@@ -53,6 +53,21 @@ My research interest includes neural machine translation and computer vision. I 
 **Zihang Liu**\*, [Oleg Balabanov](https://obalabanov.github.io/)\*, [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
 
 [**Paper**](https://arxiv.org/abs/2602.09530)
+
+**arXiv preprint**
+
+</div>
+</div>
+
+<span id="htmuon-paper"></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/htmuon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HTMuon: Improving Muon via Heavy-Tailed Spectral Correction**
+
+[Tianyu Pang](https://tdcsz327.github.io/)\*, [Yujie Fang]()\*, **Zihang Liu**, [Shenyang Deng](https://dsyforever.github.io/), [Shuhua Yu](https://shuhuayu.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[**Paper**](https://arxiv.org/abs/2603.10067) \| [**Code**](https://github.com/TDCSZ327/HTmuon)
 
 **arXiv preprint**
 
