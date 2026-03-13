@@ -15,10 +15,58 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+  .news-scroll-wrapper {
+    position: relative;
+  }
+
+  .news-scroll {
+    max-height: 220px;
+    overflow-y: auto;
+    padding: 0.1rem 0.85rem 0.55rem 0.75rem;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+
+  .news-scroll > ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .news-scroll-fade {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2.25rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.94));
+    pointer-events: none;
+  }
+
+  .news-scroll-hint {
+    position: absolute;
+    right: 0.75rem;
+    bottom: 0.45rem;
+    font-size: 0.72rem;
+    color: #555;
+    background: rgba(255, 255, 255, 0.96);
+    border: 1px solid #d8d8d8;
+    border-radius: 999px;
+    padding: 0.08rem 0.5rem;
+    pointer-events: none;
+  }
+
+  #autospec-paper {
+    display: block;
+    margin-top: -0.45rem;
+  }
+</style>
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) and [International Computer Science Institute](https://www.icsi.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/). I previously obtained my Master's degree in [EECS](https://eecs.berkeley.edu/) at UC Berkeley.
+Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) and [International Computer Science Institute](https://www.icsi.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/) and [Shiwei Liu](https://shiweiliuiiiiiii.github.io/) from [MPI-IS](https://is.mpg.de/). I previously obtained my Master's degree in [EECS](https://eecs.berkeley.edu/) at UC Berkeley.
 
 **My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in:
 - Understanding the mechanisms and behaviors of AI systems, such as generalization, uncertainty, and reasoning of LLMs, and using principled approaches to improve the transparency and efficiency.
@@ -36,11 +84,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+<div class="news-scroll-wrapper">
+<div class="news-scroll" markdown="1">
 - *2026.02*: &nbsp; Excited to share our recent works on spectral analysis and ML: [**AutoSpec**](#autospec-paper) -- a nerual network framework to discover iterative spectral algorithms for NLA and optimization, and [**HTMuon**](#htmuon-paper) -- an improvement to Muon via heavy-tailed spectral correction.
 - *2025.06*: &nbsp; Started my research engineer position at [ICSI](https://www.icsi.berkeley.edu/) to work on numerical algorithms and deep learning.
 - *2025.05*: &nbsp; Our paper "Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning" has been accepted to [ICML 2025](https://icml.cc/Conferences/2025).
 - *2024.11*: &nbsp; Gave a presentation at EMNLP 2024 on [foundation model diagnosis](https://aclanthology.org/2024.emnlp-main.78/), check out the live recording [here](https://us06web.zoom.us/rec/play/5RHeJiEVuG-yw_Ytt9cHPMzqEIm2xWenwjhHjJ4yt7camtmQObTndJ56YgBBw0A1TlNRGiwZ2MAw5klz.7Xm2WgzcHdxPjGqm?autoplay=true).
 - *2024.09*: &nbsp; Excited to share that our work "Model Balancing Helps Low-data Training and Fine-tuning" is accepted by [EMNLP 2024](https://2024.emnlp.org/) as **Oral Presentation**.
+</div>
+<div class="news-scroll-fade"></div>
+<div class="news-scroll-hint">Scroll for more ↓</div>
+</div>
 
 # 📝 Selected Publications 
 
