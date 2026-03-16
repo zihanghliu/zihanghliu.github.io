@@ -70,7 +70,7 @@ redirect_from:
 Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) and [International Computer Science Institute](https://www.icsi.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/) and [Shiwei Liu](https://shiweiliuiiiiiii.github.io/) from [MPI-IS](https://is.mpg.de/). I previously obtained my Master's degree in [EECS](https://eecs.berkeley.edu/) at UC Berkeley.
 
 **My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in:
-- Understanding the mechanisms and behaviors of AI systems, such as generalization, uncertainty, and reasoning of LLMs, and using principled approaches to improve the transparency and efficiency.
+- Understanding the mechanisms and behaviors of AI systems, such as generalization, uncertainty, and emergent abilities of frontier models, and using principled approaches to improve the transparency and efficiency.
 - Leveraging the geometry of deep learning such as low-rank subspaces and loss landscapes, to develop new (numerical) algorithms and frameworks for training large-scale AI systems and solving numerical problems.
 
 My research draws inspirations from high-dimensional statistics, random matrix theory and (randomized) numerical linear algebra.
@@ -120,7 +120,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **HTMuon: Improving Muon via Heavy-Tailed Spectral Correction**
 
-[Tianyu Pang](https://tdcsz327.github.io/)\*, [Yujie Fang]()\*, **Zihang Liu**, [Shenyang Deng](https://dsyforever.github.io/), [Shuhua Yu](https://shuhuayu.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+[Tianyu Pang](https://tdcsz327.github.io/)\*, [Yujie Fang]()\*, **Zihang Liu**, [Shenyang Deng](https://dsyforever.github.io/), [Lei Hsiung](https://hsiung.cc/), [Shuhua Yu](https://shuhuayu.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
 
 [**Paper**](https://arxiv.org/abs/2603.10067) \| [**Code**](https://github.com/TDCSZ327/HTmuon)
 
