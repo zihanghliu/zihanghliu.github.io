@@ -71,9 +71,9 @@ Hi, I am Zihang. I am a researcher at [UC Berkeley](https://eecs.berkeley.edu/) 
 
 **My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in:
 - Understanding the mechanisms and behaviors of AI systems, such as generalization, uncertainty, and emergent abilities of frontier models, and using principled approaches to improve the transparency and efficiency.
-- Leveraging the geometry of deep learning such as low-rank subspaces and loss landscapes, to develop new (numerical) algorithms and frameworks for training large-scale AI systems and solving numerical problems.
+- Leveraging geometric principles to develop new (numerical) algorithms and frameworks for training large-scale AI systems and solving numerical problems.
 
-My research draws inspirations from high-dimensional statistics, random matrix theory and (randomized) numerical linear algebra.
+<!-- My research draws inspirations from high-dimensional statistics, random matrix theory and (randomized) numerical linear algebra. -->
 
 
 <!-- Previous versions -->
@@ -124,7 +124,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**Paper**](https://arxiv.org/abs/2603.10067) \| [**Code**](https://github.com/TDCSZ327/HTmuon)
 
-**arXiv preprint**
+**ACL 2026 Findings**
 
 </div>
 </div>

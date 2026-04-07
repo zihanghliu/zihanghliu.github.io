@@ -1,6 +1,12 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+{% if author.x %}
+  {% assign x_url = author.x %}
+  {% unless x_url contains '://' %}
+    {% assign x_url = 'https://x.com/' | append: author.x %}
+  {% endunless %}
+{% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
@@ -34,8 +40,20 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-       {% if author.researchgate %}
+      {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+      {% endif %}
+      {% if author.x %}
+        <li>
+          <a href="{{ x_url }}">
+            <span class="social-icon-x" aria-hidden="true">
+              <svg viewBox="0 0 24 24" focusable="false">
+                <path d="M18.244 2.25h3.308L14.325 10.51 22.827 21.75h-6.658l-5.214-6.817-5.963 6.817H1.683l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+              </svg>
+            </span>
+            X/Twitter
+          </a>
+        </li>
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -132,8 +150,17 @@
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
       {% endif %}
-       {% if author.researchgate %}
+      {% if author.researchgate %}
         <a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.x %}
+        <a href="{{ x_url }}" aria-label="x/twitter">
+          <span class="social-icon-x" aria-hidden="true">
+            <svg viewBox="0 0 24 24" focusable="false">
+              <path d="M18.244 2.25h3.308L14.325 10.51 22.827 21.75h-6.658l-5.214-6.817-5.963 6.817H1.683l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+            </svg>
+          </span>
+        </a>
       {% endif %}
       {% if author.twitter %}
         <a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
