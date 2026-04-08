@@ -87,6 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 <div class="news-scroll-wrapper">
 <div class="news-scroll" markdown="1">
+- *2026.04*: [**HTMuon**](#htmuon-paper) is accepted by [ACL 2026](https://2026.aclweb.org/).
 - *2026.02*: Excited to share our recent works bridging spectral analysis and ML: [**AutoSpec**](#autospec-paper) -- a neural network framework to discover iterative spectral algorithms for NLA and optimization; [**HTMuon**](#htmuon-paper) -- improving Muon via heavy-tailed spectral correction.
 - *2025.06*: Started my research engineer position at [ICSI](https://www.icsi.berkeley.edu/) to work on numerical algorithms and deep learning.
 - *2025.05*: Our paper "Principal Weights Emerge after Rank Reduction for Reasoning-Focused Supervised Fine-Tuning" has been accepted to [ICML 2025](https://icml.cc/Conferences/2025).
