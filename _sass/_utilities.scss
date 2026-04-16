@@ -187,19 +187,15 @@ body:hover .visually-hidden button {
   }
 
   .social-icon-x {
-    display: inline-flex;
-    width: 1.28571429em;
-    height: 1em;
-    align-items: center;
-    justify-content: center;
-    line-height: 1;
+    text-align: center;
     vertical-align: middle;
 
     svg {
-      display: block;
-      width: 0.82em;
-      height: 0.82em;
+      display: inline-block;
+      width: 1em;
+      height: 1em;
       fill: currentColor;
+      vertical-align: top;
     }
   }
 
