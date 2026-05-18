@@ -87,6 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 <div class="news-scroll-wrapper">
 <div class="news-scroll" markdown="1">
+- *2026.05*: Our paper "Spectral Signature of Large Language Models" has been accepted at [KDD 2026](https://kdd2026.kdd.org/).
 - *2026.04*: Two papers accepted at [ICML 2026](https://icml.cc/): [**RMNP**](https://arxiv.org/abs/2603.20527) and [**RL4RLA**]().
 - *2026.04*: [**HTMuon**](#htmuon-paper) is accepted at [ACL 2026](https://2026.aclweb.org/).
 - *2026.02*: Excited to share our recent works bridging spectral analysis and ML: [**AutoSpec**](#autospec-paper) -- a neural network framework to discover iterative spectral algorithms for NLA and optimization; [**HTMuon**](#htmuon-paper) -- improving Muon via heavy-tailed spectral correction.
@@ -109,7 +110,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zihang Liu**\*, [Oleg Balabanov](https://obalabanov.github.io/)\*, [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/), [Michael W. Mahoney](https://www.stat.berkeley.edu/~mmahoney/)
 
-[**Paper**](https://arxiv.org/abs/2602.09530)
+[**Paper**](https://arxiv.org/abs/2602.09530) \| [**Code**](https://github.com/zihanghliu/AutoSpec)
 
 **arXiv preprint**
 
@@ -117,7 +118,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <span id="htmuon-paper"></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/htmuon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/htmuon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HTMuon: Improving Muon via Heavy-Tailed Spectral Correction**
