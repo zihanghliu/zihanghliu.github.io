@@ -88,7 +88,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class="news-scroll-wrapper">
 <div class="news-scroll" markdown="1">
 - *2026.05*: Our paper "Spectral Signature of Large Language Models" has been accepted at [KDD 2026](https://kdd2026.kdd.org/).
-- *2026.04*: Two papers accepted at [ICML 2026](https://icml.cc/): [**RMNP**](https://arxiv.org/abs/2603.20527) and [**RL4RLA**]().
+- *2026.04*: Two papers accepted at [ICML 2026](https://icml.cc/): [**RMNP**](#rmnp-paper) and [**RL4RLA**]().
 - *2026.04*: [**HTMuon**](#htmuon-paper) is accepted at [ACL 2026](https://2026.aclweb.org/).
 - *2026.02*: Excited to share our recent works bridging spectral analysis and ML: [**AutoSpec**](#autospec-paper) -- a neural network framework to discover iterative spectral algorithms for NLA and optimization; [**HTMuon**](#htmuon-paper) -- improving Muon via heavy-tailed spectral correction.
 - *2025.06*: Started my research engineer position at [ICSI](https://www.icsi.berkeley.edu/) to work on numerical algorithms and deep learning.
@@ -113,6 +113,21 @@ My research interest includes neural machine translation and computer vision. I 
 [**Paper**](https://arxiv.org/abs/2602.09530) \| [**Code**](https://github.com/zihanghliu/AutoSpec)
 
 **arXiv preprint**
+
+</div>
+</div>
+
+<span id="rmnp-paper"></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/rmnp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RMNP: Row-Momentum Normalized Preconditioning for Scalable Matrix-Based Optimization**
+
+[Shenyang Deng](https://dsyforever.github.io/)\*, [Zhuoli Ouyang](https://github.com/Dominator-Index)\*, [Tianyu Pang](https://tdcsz327.github.io/), **Zihang Liu**, [Ruochen Jin](https://scholar.google.com/citations?user=4UCvea0AAAAJ&hl=zh-CN), [Shuhua Yu](https://shuhuayu.github.io/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)
+
+[**Paper**](https://arxiv.org/abs/2603.20527) \| [**Code**](https://github.com/Dominator-Index/RMNP) \| [**Blog**](https://dsyforever.github.io/blog/normalization-orthogonalization/)
+
+**ICML 2026**
 
 </div>
 </div>
