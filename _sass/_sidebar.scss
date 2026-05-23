@@ -257,6 +257,10 @@
   padding: .25em;
   font-size: 1.75em;
   display: block;
+  .social-icon-x svg {
+    width: .82em;
+    height: .82em;
+  }
   a {
     color: inherit;
     text-decoration: none;
