@@ -161,7 +161,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024_Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--last'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/EMNLP_2024_Teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Model Balancing Helps Low-data Training and Fine-tuning**
