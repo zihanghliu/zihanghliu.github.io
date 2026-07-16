@@ -87,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 <div class="news-scroll-wrapper">
 <div class="news-scroll" markdown="1">
-- *2026.05*: Our paper "Spectral Signature of Large Language Models" has been accepted at [KDD 2026](https://kdd2026.kdd.org/).
+- *2026.05*: Our paper [Spectral Signature of Large Language Models](https://arxiv.org/abs/2607.03377) has been accepted at [KDD 2026](https://kdd2026.kdd.org/) as **Oral Presentation**.
 - *2026.04*: Two papers accepted at [ICML 2026](https://icml.cc/): [**RMNP**](#rmnp-paper) and [**RL4RLA**](https://arxiv.org/abs/2605.18004).
 - *2026.04*: [**HTMuon**](#htmuon-paper) is accepted at [ACL 2026](https://2026.aclweb.org/).
 - *2026.02*: Excited to share our recent works bridging spectral analysis and ML: [**AutoSpec**](#autospec-paper) -- a neural network framework to discover iterative spectral algorithms for NLA and optimization; [**HTMuon**](#htmuon-paper) -- improving Muon via heavy-tailed spectral correction.
