@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zihang Liu"
   avatar           : "images/profile_pic.png"
-  bio              : "PhD Student @ CUHK"
+  bio              : "CS PhD Student @ CUHK"
   location         : "Sha Tin, Hong Kong"
   employer         :
   pubmed           : 

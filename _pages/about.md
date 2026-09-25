@@ -87,6 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 <div class="news-scroll-wrapper">
 <div class="news-scroll" markdown="1">
+- *2026.9*: [**AutoSpec**](#autospec-paper) is accepted at [NeurIPS 2026](https://neurips.cc/).
 - *2026.05*: Our paper [Spectral Signatures of Large Language Models](https://arxiv.org/abs/2607.03377) has been accepted at [KDD 2026](https://kdd2026.kdd.org/) as **Oral Presentation**.
 - *2026.04*: Two papers accepted at [ICML 2026](https://icml.cc/): [**RMNP**](#rmnp-paper) and [**RL4RLA**](https://arxiv.org/abs/2605.18004).
 - *2026.04*: [**HTMuon**](#htmuon-paper) is accepted at [ACL 2026](https://2026.aclweb.org/).
@@ -103,7 +104,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Selected Publications 
 
 <span id="autospec-paper"></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/autospec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/autospec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning to Discover Iterative Spectral Algorithms**
@@ -112,7 +113,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**Paper**](https://arxiv.org/abs/2602.09530) \| [**Code**](https://github.com/zihanghliu/AutoSpec)
 
-**arXiv preprint**
+**NeurIPS 2026**
 
 </div>
 </div>
