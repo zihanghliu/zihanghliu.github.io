@@ -70,7 +70,7 @@ redirect_from:
 Hi, I am Zihang. I am a CS PhD student at [SphereLab](https://spherelab.ai/), Chinese University of Hong Kong, advised by [Prof. Weiyang Liu](https://wyliu.com/). Previously I was a researcher at [International Computer Science Institute](https://www.icsi.berkeley.edu/) and received my Master's degree in [EECS](https://eecs.berkeley.edu/) at [UC Berkeley](https://eecs.berkeley.edu/), advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/). I also have the privilege to work closely with [Prof. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/) from [Dartmouth College](https://web.cs.dartmouth.edu/) and [Shiwei Liu](https://shiweiliuiiiiiii.github.io/) from [MPI-IS](https://is.mpg.de/).
 
 **My research focus** is to understand and improve the **transparency and efficiency of learning models**. I am particularly interested in:
-- Understanding the mechanisms and behaviors of AI systems, such as generalization, uncertainty, and emergent abilities of frontier models, and using principled approaches to improve the transparency and efficiency.
+- Understanding the mechanisms and behaviors of AI systems, such as generalization, training dynamics, and emergent abilities of frontier models, and using principled approaches to improve the transparency and efficiency.
 - Leveraging geometric (spectral) principles to develop new (numerical) algorithms and frameworks for training large-scale AI systems and solving numerical problems.
 
 <!-- My research draws inspirations from high-dimensional statistics, random matrix theory and (randomized) numerical linear algebra. -->
@@ -87,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 <div class="news-scroll-wrapper">
 <div class="news-scroll" markdown="1">
-- *2026.9*: [**AutoSpec**](#autospec-paper) is accepted at [NeurIPS 2026](https://neurips.cc/).
+- *2026.09*: [**AutoSpec**](#autospec-paper) is accepted at [NeurIPS 2026](https://neurips.cc/).
 - *2026.05*: Our paper [Spectral Signatures of Large Language Models](https://arxiv.org/abs/2607.03377) has been accepted at [KDD 2026](https://kdd2026.kdd.org/) as **Oral Presentation**.
 - *2026.04*: Two papers accepted at [ICML 2026](https://icml.cc/): [**RMNP**](#rmnp-paper) and [**RL4RLA**](https://arxiv.org/abs/2605.18004).
 - *2026.04*: [**HTMuon**](#htmuon-paper) is accepted at [ACL 2026](https://2026.aclweb.org/).
